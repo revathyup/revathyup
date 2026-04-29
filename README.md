@@ -10,7 +10,4 @@ Current focus:
 - API and contract testing
 - CI workflows with GitHub Actions
 
-Selected learning projects:
 
-- `ECU_Test_Automation`: ECU-style HIL/SIL test automation with fault injection
-- `EV_Charging_API_Contract_Testing`: API contract testing with an EV charging example
