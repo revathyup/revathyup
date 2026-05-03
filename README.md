@@ -1,6 +1,6 @@
 ## Hi there
 
-I am learning embedded systems, test automation, and connected-device software.
+I am learning embedded systems, testing, and connected-device software.
 
 Current focus:
 
@@ -9,5 +9,7 @@ Current focus:
 - Pytest-based test automation
 - API and contract testing
 - CI workflows with GitHub Actions
+
+- Ex-customer service representative /associate
 
 
