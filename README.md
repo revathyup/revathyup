@@ -1,13 +1,17 @@
 ## Hi there
 
-I am learning embedded systems, testing, and connected-device software.
+masters graduate and expert in embedded systems, testing, and validation.
 Current focus:
-- Embedded C and Python
-- Zephyr, sensors, and state-machine logic
-- Pytest-based test automation
-- API and contract testing
+- Python , C, and Linux
+- Zephyr,RTOS, sensors, and state-machine logic
+- Pytest,Selenium and other test automation
 - CI workflows with GitHub Actions
+- Prototyping and concepting
 
-# Ex-customer service representative /associate
+# Ex-banking associate 
+- sql,kyc,core banking architecture
+- Customer Analysis
+- Ticket systems
+- Database queries
 
 
