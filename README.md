@@ -1,6 +1,6 @@
 ## Hi there
 
-masters graduate and expert in embedded systems, testing, and validation.
+i am a masters graduate and expert in embedded systems, testing, and validation.
 Current focus:
 - Python , C, and Linux
 - Zephyr,RTOS, sensors, and state-machine logic
