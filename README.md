@@ -9,8 +9,8 @@ Current focus:
 - Prototyping and concepting
 
 # Ex-banking associate 
-- sql,kyc,core banking architecture
-- Customer Analysis
+- sql,kyc,IT operations,core banking architecture
+- Customer Support
 - Ticket systems
 - Database queries
 
